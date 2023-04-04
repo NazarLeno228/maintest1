@@ -1,0 +1,23 @@
+селектор{
+    властивість: значення;
+
+}
+
+h1{
+    color: blueviolet;
+}
+a{
+ color: black;
+}
+ul{
+    list-style: none;
+}
+.efect{
+    background-color: black;
+}
+#title{
+    
+}
+.li{
+    border: 1px solid green;
+}
