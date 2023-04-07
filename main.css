@@ -2,7 +2,7 @@
     властивість: значення;
 
 }
-
+/* 
 h1{
     color: blueviolet;
 }
@@ -20,4 +20,22 @@ ul{
 }
 .li{
     border: 1px solid green;
+}
+{
+    background-color: yellowgreen;
+}
+ul  p  {
+    color: brown;
+}
+h3 + p{
+    color: brown;
+}
+h3 ~ P{
+    color: tomato;
+}
+.[href]{
+    color: blue; */
+}
+.ui{
+    background-color: chartreuse;
 }
